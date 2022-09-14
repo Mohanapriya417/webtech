@@ -1,0 +1,63 @@
+body{
+    background-color: azure;
+}
+
+.heading{
+    text-align: center;
+    background-color:darkgray;
+    border-style: solid ;
+    border-color:black;
+    height: 50px;
+    padding: 10px;
+    position: relative;
+    top: 0px;
+}
+
+.box1{
+    margin-top: 40px;
+    height: 600px;
+    width: 250px;
+    padding: 10px;
+    background-color:darkgray;
+    border-style: solid;
+    border-color:black;
+
+}
+.frame1{
+    height: 600px;
+    width: 700px;
+    padding: 10px;
+    background-color: darkgray;
+    border-style: solid;
+    border-color:black;
+    position: relative;
+    left:280px;
+    bottom: 625px;
+
+    
+}
+.frame2{
+    height: 620px;
+    width: 320px;
+    background-color: darkgray;
+    border-style: solid;
+    border-color:black;
+    position: relative;
+    left:280px;
+    bottom: 625px;
+
+
+}
+
+.home1{
+    position:relative;
+    left:900px;
+    top: 50px;
+
+}
+
+.home2{
+    position:relative;
+    left:1200px;
+    top: 35px;
+}
